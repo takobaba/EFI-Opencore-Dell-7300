@@ -1,0 +1,1 @@
+# EFI-Opencore-Dell-7300
