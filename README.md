@@ -1,35 +1,34 @@
 # EFI for Dell Latitude 7300 - Opencore
 ## Opencore 0.9.7
-## macOs Ventura 13.6.3 (c)
+## macOs Ventura 13.6.4 (c)
 
 ![image](7300_2.png)
 ![image](7300.png)
 
 ## Specs:
 
-  - **CPU:** Intel i7-8665U (8) @ 1.90GHz
+  - **CPU:** Intel® Core™ i7-8665U Processor
   - **GPU:** Intel UHD Graphics 620 (Whiskey Lake) @ 2048 MB
-  - **Memory:** 16 GB RAM 2400 MHz
+  - **Memory:** 32 GB RAM 2666 MHz
   - **Disk:** SSDPEKKF256G8 NVMe INTEL 256GB
-  - **Screen Resolution:** 1366 x 768 
+  - **Screen Resolution:** 1920 x 1080 - Touch 
   - **BIOS:** 1.28 - 11 Dec 2023
   - **Wifi:** Intel Wireless-AC 9560 160MHz
   - **Audio:** Realtek ALC295
   - **SMBIOS:** MacBookPro15,2
 
 ## Works:
+
   * Battery
   * HDMI output up to 2 screens
-  * Audio
+  * Audio - Manual Run ALCPlugFix
   * FN Sound/Brightness shortcuts
+  * WiFi & Bluetooth - Intel
   * Trackpad - All the gestures
-  * Realtek Card Reader
-  * Wifi - Intel
+  * SD Card Reader - Realtek
 
 ## Doesn't Work:
   * AirDrop
-  * Bluetooth - Intel
-    * Tested with iQunix keyboard
 
 ### Notes:
 * [GeekBench 6 Score](https://browser.geekbench.com/v6/cpu/4099903)
