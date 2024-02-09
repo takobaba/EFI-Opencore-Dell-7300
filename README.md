@@ -1,6 +1,6 @@
 # EFI for Dell Latitude 7300 - Opencore
-## Opencore 0.9.7
-## macOs Ventura 13.6.4 (c)
+## Opencore 0.9.8
+## macOs Sonoma 14.3.1 (c)
 
 ![image](7300_2.png)
 ![image](7300.png)
