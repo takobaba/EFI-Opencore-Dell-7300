@@ -23,7 +23,8 @@
   * HDMI output up to 2 screens
   * Audio - Manual Run ALCPlugFix
   * FN Sound/Brightness shortcuts
-  * WiFi & Bluetooth
+  * WiFi 
+  * Bluetooth
   * Trackpad - All the gestures
   * SD Card Reader - Realtek
 
