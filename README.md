@@ -13,7 +13,7 @@
   - **Disk:** SSDPEKKF256G8 NVMe INTEL 256GB
   - **Screen Resolution:** 1920 x 1080 - Touch 
   - **BIOS:** 1.28 - 11 Dec 2023
-  - **Wifi:** Intel Wireless-AC 9560 160MHz
+  - **Wifi:** Intel® Wireless-AC 9560
   - **Audio:** Realtek ALC295
   - **SMBIOS:** MacBookPro15,2
 
@@ -23,7 +23,7 @@
   * HDMI output up to 2 screens
   * Audio - Manual Run ALCPlugFix
   * FN Sound/Brightness shortcuts
-  * WiFi & Bluetooth - Intel
+  * WiFi & Bluetooth
   * Trackpad - All the gestures
   * SD Card Reader - Realtek
 

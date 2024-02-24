@@ -473,7 +473,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.0</string>
+                    <string>V2.3.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -943,7 +943,7 @@
                     <key>Comment</key>
                     <string>V1.0.4</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/VerbStub</string>
                     <key>MaxKernel</key>
@@ -1150,11 +1150,11 @@
                 <key>PollAppleHotKeys</key>
                 <true/>
                 <key>ShowPicker</key>
-                <false/>
+                <true/>
                 <key>TakeoffDelay</key>
                 <integer>0</integer>
                 <key>Timeout</key>
-                <integer>0</integer>
+                <integer>5</integer>
             </dict>
             <key>Debug</key>
             <dict>
@@ -1326,7 +1326,7 @@
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <dict>
                     <key>boot-args</key>
-                    <string>-vsmcbeta -vsmccomp revpatch=sbvmm</string>
+                    <string>-vsmcbeta -vsmccomp revpatch=sbvmm agdpmod=vit9696</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>run-efi-updater</key>
@@ -1395,13 +1395,13 @@
                 <key>AdviseFeatures</key>
                 <true/>
                 <key>MLB</key>
-                <string></string>
+                <string>C02945501GUJH4RFB</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>/1</data>
+                <data>B5qIg0/1</data>
                 <key>SpoofVendor</key>
                 <false/>
                 <key>SystemMemoryStatus</key>
@@ -1409,9 +1409,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro15,2</string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02ZN0E0JHCC</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>77FFE45E-A90B-4701-8860-078E58DC21B3</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1558,18 +1558,6 @@
                     <false/>
                     <key>Path</key>
                     <string>ResetNvramEntry.efi</string>
-                </dict>
-                <dict>
-                    <key>Arguments</key>
-                    <string></string>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>LoadEarly</key>
-                    <false/>
-                    <key>Path</key>
-                    <string>TbtForcePower.efi</string>
                 </dict>
                 <dict>
                     <key>Arguments</key>
