@@ -1,6 +1,6 @@
 # EFI for Dell Latitude 7300 - Opencore
 ## Opencore 1.0.3
-## macOs Sonoma 14.7.2 (c)
+## macOs Sequoia 15.3.1 (c)
 
 ![image](7300_2.png)
 ![image](7300.png)
@@ -12,7 +12,7 @@
   - **Memory:** 32 GB RAM 2666 MHz
   - **Disk:** SSDPEKKF256G8 NVMe INTEL 256GB
   - **Screen Resolution:** 1920 x 1080 - Touch 
-  - **BIOS:** 1.28 - 11 Dec 2023
+  - **BIOS:** 1.37
   - **Wifi:** Intel® Wireless-AC 9560
   - **Audio:** Realtek ALC295
   - **SMBIOS:** MacBookPro15,2
