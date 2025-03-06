@@ -1,5 +1,5 @@
 # EFI for Dell Latitude 7300 - Opencore
-## Opencore 1.0.3
+## Opencore 1.0.4
 ## macOs Sequoia 15.3.1 (c)
 
 ![image](7300_2.png)
