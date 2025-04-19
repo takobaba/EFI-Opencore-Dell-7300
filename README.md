@@ -13,7 +13,7 @@
 - **GPU:** Intel UHD Graphics 620 (Whiskey Lake) @ 2048 MB
 - **Memory:** 32 GB RAM 2666 MHz
 - **Disk:** SSDPEKKF256G8 NVMe INTEL 256GB
-- **Screen Resolution:** 1920 x 1080 - Touch 
+- **Screen Resolution:** 1920 x 1080 - Touch
 - **BIOS:** 1.37
 - **Wifi:** Intel® Wireless-AC 9560
 - **Audio:** Realtek ALC295
@@ -32,13 +32,13 @@
 
 ## Doesn't Work
 
-* AirDrop
+- AirDrop
 
 ### Notes
 
-* [GeekBench 6 Score](https://browser.geekbench.com/v6/cpu/4099903)
+- [GeekBench 6 Score](https://browser.geekbench.com/v6/cpu/4099903)
 
 ### Credits
 
-* [Based on cropester 7300 EFI](https://osxlatitude.com/forums/topic/18195-dell-latitude-7300-bad-audio-with-alc295-alc3254/)
-* [EFI](https://mega.nz/file/OQIXBJib#aBZ-m8NzIPAEOjHF5g3QRzad9SzBQJkj0FM21iumteg)
+- [Based on cropester 7300 EFI](https://osxlatitude.com/forums/topic/18195-dell-latitude-7300-bad-audio-with-alc295-alc3254/)
+- [EFI](https://mega.nz/file/OQIXBJib#aBZ-m8NzIPAEOjHF5g3QRzad9SzBQJkj0FM21iumteg)
