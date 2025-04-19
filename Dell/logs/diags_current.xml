@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
-    <LogNumber>176</LogNumber>
-    <LogTimeStamp>02/21/2025 14:05:08</LogTimeStamp>
+    <LogNumber>193</LogNumber>
+    <LogTimeStamp>04/17/2025 09:52:12</LogTimeStamp>
     <ePSA_Data>
       <Result>Not Reported</Result>
       <ReturnCode>BOOT_HOST_OS</ReturnCode>
       <ePSAFullVersion>4400.13</ePSAFullVersion>
-      <ePSAInvocationCount>4</ePSAInvocationCount>
+      <ePSAInvocationCount>21</ePSAInvocationCount>
     </ePSA_Data>
     <BIOS_Data>
       <ErrorCategory>TYPE_C</ErrorCategory>
